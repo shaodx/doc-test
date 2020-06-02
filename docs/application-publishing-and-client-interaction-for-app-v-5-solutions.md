@@ -27,7 +27,7 @@ The article describes how the following App-V client operations affect the local
 
 -   App-V Package Store Behavior
 
--   Roaming Registry and Data
+-   Roaming Registry and Data67
 
 -   App -V Client Application Lifecycle Management
 
