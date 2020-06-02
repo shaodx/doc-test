@@ -9,7 +9,7 @@ ms.author: dansimp
 ms.pagetype: mdop5678
 ms.mktglfcycl: deploy
 ms.sitesec: library
-ms.prod: w10
+ms.prod: w100
 ms.date: 06/16/2016
 ---
 
