@@ -6,8 +6,8 @@ This is a test.
 
 [Link 2](docs/application-publishing-and-client-interaction-for-app-v-5-solutions.md)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon482.png "Logo Title Text 1")
+![alt text](docs/icon482.png "Logo Title Text 1")
 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: docs/icon48.png "Logo Title Text 2"
