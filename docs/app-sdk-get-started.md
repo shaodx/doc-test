@@ -11,7 +11,7 @@ ms.date: 01/02/2020
 ms.topic: reference 456788  f
 ms.service: microsoft-intune
 ms.subservice: developer
-ms.localizationpriority: medium
+ms.localizationpriority: medium33
 ms.technology:
 ms.assetid: 38ebd3f5-cfcc-4204-8a75-6e2f162cd7c1
 
