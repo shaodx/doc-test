@@ -8,7 +8,7 @@ test
 
 ## Enable application logging (Windows)
 
-2. Select **On** for either 
+2. Select **On** for either 1
 
 3. The **Filesystem** option is for temporary debugging purposes, and turns itself off in 12 hours. The **Blob** option is for long-term logging, and needs a blob storage container to write logs to. The Blob option also includes additional information in the log messages, such as the ID of the origin VM instance of the log message (`InstanceId`), thread ID (`Tid`), and a more granular timestamp (`EventTickCount`).
 
