@@ -4,7 +4,7 @@ Azure provides built-in diagnostics to assist with debugging an App Service app.
 
 Below is a table showing the types of logging, the platforms supported, and where the logs can be stored and located for accessing the information.
 
-
+test
 
 Type | Platform | Location | Description
 - | - | - | -
