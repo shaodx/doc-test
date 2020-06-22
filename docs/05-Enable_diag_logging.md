@@ -24,13 +24,6 @@ Deployment logging | Windows, Linux | App Service file system | Logs for when yo
 
 4. You can also set the **Level** of details included in the log as shown in the table below.
 
-    Level |	Included categories
-    - | - 
-    **Disabled** | None
-    **Error** | Error, Critical
-    **Warning** | Warning, Error, Critical
-    **Information** | Info, Warning, Error, Critical
-    **Verbose** | Trace, Debug, Info, Warning, Error, Critical (all categories)
 
 5. When finished, select **Save**.
 
