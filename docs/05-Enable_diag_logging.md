@@ -4,7 +4,7 @@
 
 Below is a table showing the types of logging, the platforms supported, and where the logs can be stored and located for accessing the information.
 
-test
+test23
 
 ## Enable application logging (Windows)
 
