@@ -6,7 +6,7 @@ This is a test 25.
 
 [Link 2](docs/application-publishing-and-client-interaction-for-app-v-5-solutions.md)
 
-![alt text](docs/icon482.png "Logo Title Text 1")
+![alt text](docs/31Zzc6TkV7L.jpg "Logo Title Text 1")
 
 ![alt text][logo]
 
